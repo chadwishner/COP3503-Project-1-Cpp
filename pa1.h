@@ -1,6 +1,5 @@
 //Chad Wishner
 //6631-5393
-//Testing Git
 
 #include <iostream>
 
